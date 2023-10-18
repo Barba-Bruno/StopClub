@@ -1,0 +1,45 @@
+body {
+    background-color: #F9F9F9;
+}
+
+.cover {
+    height: 95vh;
+    width: 100%;
+}
+
+.title {
+    color: #fa8128;
+}
+
+.icon {
+    max-width: 45%;
+}
+
+.white-container, .blue-container div{
+    width: 65%;
+}
+
+.white-container, .blue-container {
+    padding: 100px 0;
+}
+
+.blue-container {
+    background-color: #1a355e;
+    color: #f9f9f9;
+}
+
+.floatIcon {
+    width: 27px;
+}
+
+.green {
+    color: #62db4b;
+}
+
+.yellow {
+    color: #fde559;
+}
+
+.red {
+    color: #d10201;
+}
